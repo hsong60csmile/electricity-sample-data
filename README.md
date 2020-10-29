@@ -1,2 +1,2 @@
 # electricity-sample-data
-electricity data
+The granularity is: 15 mins
